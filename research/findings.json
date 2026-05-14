@@ -1,0 +1,47 @@
+[
+  {
+    "retailer": "Rouses Markets",
+    "store": "Mandeville",
+    "url": "https://orderonline.rouses.com/online/21mandeville"
+  },
+  {
+    "retailer": "Main's Market",
+    "store": "Main's Market Store",
+    "url": "https://apps.apple.com/us/app/mains-market/id1565352636"
+  },
+  {
+    "retailer": "Hitchcock's Markets",
+    "store": "Hitchcock's Markets Store",
+    "url": "https://apps.apple.com/au/app/hitchcocks-markets/id1507123016"
+  },
+  {
+    "retailer": "Cash Saver Stores",
+    "store": "Cash Saver Store",
+    "url": "https://apps.apple.com/us/app/cash-saver-stores/id6740634826"
+  },
+  {
+    "retailer": "HMGrocerant",
+    "store": "HMGrocerant Store",
+    "url": "https://apps.apple.com/us/app/hmgrocerant/id6449465438"
+  },
+  {
+    "retailer": "Christopher's Fine Foods",
+    "store": "Christopher's Fine Foods Store",
+    "url": "https://apps.apple.com/us/app/christophers-fine-foods/id6748153472"
+  },
+  {
+    "retailer": "Doc's Food Stores",
+    "store": "Doc's Food Stores Oklahoma",
+    "url": "https://www.egrowcery.com/post/doc-s-food-stores-upgrades-with-egrowcery"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Brookshire Brothers Store",
+    "url": "https://www.egrowcery.com/post/brookshire-brothers-partners-with-egrowcery-for-digital-shopping-platform"
+  },
+  {
+    "retailer": "Willy Street Co-op",
+    "store": "Willy Street Co-op Store",
+    "url": "https://www.egrowcery.com/post/egrowcery-platform-gives-cooperative-retailer-members-more-convenience-and-functionality-1"
+  }
+]
