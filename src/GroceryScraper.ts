@@ -82,7 +82,9 @@ export class GroceryScraper {
           }, url);
 
           // EGrowcery API usually returns an array directly, or an object with items
-          const items = Array.isArray(response) ? response : (response.data || response.items || response.products || []);
+          const resObj = response as any;
+          const items = Array.isArray(resObj) ? resObj : 
+            (resObj.Result?.Products || resObj.data || resObj.items || resObj.products || []);
           
           if (items.length === 0) {
             hasMore = false;
