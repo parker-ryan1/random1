@@ -1,93 +1,1737 @@
 [
-  { "retailer": "Rouses Markets", "store": "Mandeville #21", "url": "https://orderonline.rouses.com/online/21mandeville" },
-  { "retailer": "Rouses Markets", "store": "New Orleans #29", "url": "https://orderonline.rouses.com/online/29neworleans" },
-  { "retailer": "Rouses Markets", "store": "Larose #81", "url": "https://orderonline.rouses.com/online/81larose" },
-  { "retailer": "Rouses Markets", "store": "Houma #4", "url": "https://orderonline.rouses.com/online/4houma" },
-  { "retailer": "Rouses Markets", "store": "Destrehan #7", "url": "https://orderonline.rouses.com/online/7destrehan" },
-  { "retailer": "Rouses Markets", "store": "Central (Baton Rouge) #8", "url": "https://orderonline.rouses.com/online/8central" },
-  { "retailer": "Rouses Markets", "store": "Gramercy #9", "url": "https://orderonline.rouses.com/online/9gramercy" },
-  { "retailer": "Rouses Markets", "store": "Morgan City #10", "url": "https://orderonline.rouses.com/online/10morgancity" },
-  { "retailer": "Rouses Markets", "store": "Houma #12", "url": "https://orderonline.rouses.com/online/12houma" },
-  { "retailer": "Rouses Markets", "store": "Houma #15", "url": "https://orderonline.rouses.com/online/15houma" },
-  { "retailer": "Rouses Markets", "store": "Thibodaux #16", "url": "https://orderonline.rouses.com/online/16thibodaux" },
-  { "retailer": "Rouses Markets", "store": "Thibodaux #17", "url": "https://orderonline.rouses.com/online/17thibodaux" },
-  { "retailer": "Rouses Markets", "store": "Covington #20", "url": "https://orderonline.rouses.com/online/20covington" },
-  { "retailer": "Rouses Markets", "store": "Slidell #22", "url": "https://orderonline.rouses.com/online/22slidell" },
-  { "retailer": "Rouses Markets", "store": "Youngsville #23", "url": "https://orderonline.rouses.com/online/23youngsville" },
-  { "retailer": "Rouses Markets", "store": "Lockport #24", "url": "https://orderonline.rouses.com/online/24lockport" },
-  { "retailer": "Rouses Markets", "store": "Metairie #25", "url": "https://orderonline.rouses.com/online/25metairie" },
-  { "retailer": "Rouses Markets", "store": "New Orleans #26", "url": "https://orderonline.rouses.com/online/26neworleans" },
-  { "retailer": "Rouses Markets", "store": "Metairie #27", "url": "https://orderonline.rouses.com/online/27metairie" },
-  { "retailer": "Rouses Markets", "store": "Metairie #28", "url": "https://orderonline.rouses.com/online/28metairie" },
-  { "retailer": "Rouses Markets", "store": "New Orleans #30", "url": "https://orderonline.rouses.com/online/30neworleans" },
-  { "retailer": "Rouses Markets", "store": "Mandeville #32", "url": "https://orderonline.rouses.com/online/32mandeville" },
-  { "retailer": "Rouses Markets", "store": "Metairie #33", "url": "https://orderonline.rouses.com/online/33metairie" },
-  { "retailer": "Rouses Markets", "store": "New Orleans #35", "url": "https://orderonline.rouses.com/online/35neworleans" },
-  { "retailer": "Rouses Markets", "store": "New Orleans #36", "url": "https://orderonline.rouses.com/online/36neworleans" },
-  { "retailer": "Rouses Markets", "store": "Gretna #38", "url": "https://orderonline.rouses.com/online/38gretna" },
-  { "retailer": "Rouses Markets", "store": "Ocean Springs, MS #40", "url": "https://orderonline.rouses.com/online/40oceansprings" },
-  { "retailer": "Rouses Markets", "store": "Lafayette #45", "url": "https://orderonline.rouses.com/online/45lafayette" },
-  { "retailer": "Rouses Markets", "store": "New Orleans #46", "url": "https://orderonline.rouses.com/online/46neworleans" },
-  { "retailer": "Rouses Markets", "store": "Diamondhead, MS #47", "url": "https://orderonline.rouses.com/online/47diamondhead" },
-  { "retailer": "Rouses Markets", "store": "Lafayette #48", "url": "https://orderonline.rouses.com/online/48lafayette" },
-  { "retailer": "Rouses Markets", "store": "Gretna #49", "url": "https://orderonline.rouses.com/online/49gretna" },
-  { "retailer": "Rouses Markets", "store": "Theodore, AL #50", "url": "https://orderonline.rouses.com/online/50theodore" },
-  { "retailer": "Rouses Markets", "store": "Mobile, AL #51", "url": "https://orderonline.rouses.com/online/51mobile" },
-  { "retailer": "Rouses Markets", "store": "Saraland, AL #52", "url": "https://orderonline.rouses.com/online/52saraland" },
-  { "retailer": "Rouses Markets", "store": "Spanish Fort, AL #53", "url": "https://orderonline.rouses.com/online/53spanishfort" },
-  { "retailer": "Rouses Markets", "store": "Gulf Shores, AL #54", "url": "https://orderonline.rouses.com/online/54gulfshores" },
-  { "retailer": "Rouses Markets", "store": "Denham Springs #55", "url": "https://orderonline.rouses.com/online/55denhamsprings" },
-  { "retailer": "Rouses Markets", "store": "Kenner #56", "url": "https://orderonline.rouses.com/online/56kenner" },
-  { "retailer": "Rouses Markets", "store": "Ponchatoula #57", "url": "https://orderonline.rouses.com/online/57ponchatoula" },
-  { "retailer": "Rouses Markets", "store": "Baton Rouge #58", "url": "https://orderonline.rouses.com/online/58batonrouge" },
-  { "retailer": "Rouses Markets", "store": "Thibodaux #59", "url": "https://orderonline.rouses.com/online/59thibodaux" },
-  { "retailer": "Rouses Markets", "store": "Zachary #60", "url": "https://orderonline.rouses.com/online/60zachary" },
-  { "retailer": "Rouses Markets", "store": "Hammond #61", "url": "https://orderonline.rouses.com/online/61hammond" },
-  { "retailer": "Rouses Markets", "store": "Baton Rouge #62", "url": "https://orderonline.rouses.com/online/62batonrouge" },
-  { "retailer": "Rouses Markets", "store": "Prairieville #63", "url": "https://orderonline.rouses.com/online/63prairieville" },
-  { "retailer": "Rouses Markets", "store": "Gonzales #64", "url": "https://orderonline.rouses.com/online/64gonzales" },
-  { "retailer": "Rouses Markets", "store": "Gonzales #65", "url": "https://orderonline.rouses.com/online/65gonzales" },
-  { "retailer": "Rouses Markets", "store": "Plattenville #66", "url": "https://orderonline.rouses.com/online/66plattenville" },
-  { "retailer": "Rouses Markets", "store": "Plaquemine #68", "url": "https://orderonline.rouses.com/online/68plaquemine" },
-  { "retailer": "Rouses Markets", "store": "Baton Rouge #69", "url": "https://orderonline.rouses.com/online/69batonrouge" },
-  { "retailer": "Rouses Markets", "store": "Baton Rouge #70", "url": "https://orderonline.rouses.com/online/70batonrouge" },
-  { "retailer": "Rouses Markets", "store": "Sulphur #71", "url": "https://orderonline.rouses.com/online/71sulphur" },
-  { "retailer": "Rouses Markets", "store": "Lake Charles #72", "url": "https://orderonline.rouses.com/online/72lakecharles" },
-  { "retailer": "Rouses Markets", "store": "Mobile, AL #73", "url": "https://orderonline.rouses.com/online/73mobile" },
-  { "retailer": "Rouses Markets", "store": "New Iberia #74", "url": "https://orderonline.rouses.com/online/74newiberia" },
-  { "retailer": "Rouses Markets", "store": "Covington #75", "url": "https://orderonline.rouses.com/online/75covington" },
-  { "retailer": "Rouses Markets", "store": "Orange Beach, AL #76", "url": "https://orderonline.rouses.com/online/76orangebeach" },
-  { "retailer": "Rouses Markets", "store": "Gulfport, MS #77", "url": "https://orderonline.rouses.com/online/77gulfport" },
-  { "retailer": "Rouses Markets", "store": "Daphne, AL #78", "url": "https://orderonline.rouses.com/online/78daphne" },
-  { "retailer": "Rouses Markets", "store": "Marrero #79", "url": "https://orderonline.rouses.com/online/79marrero" },
-  { "retailer": "Rouses Markets", "store": "Lake Charles #80", "url": "https://orderonline.rouses.com/online/80lakecharles" },
-  { "retailer": "Rouses Markets", "store": "Golden Meadow #82", "url": "https://orderonline.rouses.com/online/82goldenmeadow" },
-  { "retailer": "Rouses Markets", "store": "New Orleans #83", "url": "https://orderonline.rouses.com/online/83neworleans" },
-  { "retailer": "Rouses Markets", "store": "Lafayette #84", "url": "https://orderonline.rouses.com/online/84lafayette" },
-  { "retailer": "Rouses Markets", "store": "Houma #85", "url": "https://orderonline.rouses.com/online/85houma" },
-  { "retailer": "Rouses Markets", "store": "Baton Rouge #86", "url": "https://orderonline.rouses.com/online/86batonrouge" },
-  { "retailer": "Rouses Markets", "store": "Picayune, MS #87", "url": "https://orderonline.rouses.com/online/87picayune" },
-  { "retailer": "Rouses Markets", "store": "Biloxi, MS #88", "url": "https://orderonline.rouses.com/online/88biloxi" },
-  { "retailer": "Rouses Markets", "store": "Covington #90", "url": "https://orderonline.rouses.com/online/90covington" },
-  { "retailer": "Rouses Markets", "store": "Kenner #91", "url": "https://orderonline.rouses.com/online/91kenner" },
-  { "retailer": "Rouses Markets", "store": "Mandeville #92", "url": "https://orderonline.rouses.com/online/92mandeville" },
-  { "retailer": "Rouses Markets", "store": "New Orleans #93", "url": "https://orderonline.rouses.com/online/93neworleans" },
-  { "retailer": "Rouses Markets", "store": "Franklinton #94", "url": "https://orderonline.rouses.com/online/94franklinton" },
-  { "retailer": "Rouses Markets", "store": "Marrero #95", "url": "https://orderonline.rouses.com/online/95marrero" },
-  { "retailer": "Rouses Markets", "store": "Hattiesburg, MS #96", "url": "https://orderonline.rouses.com/online/96hattiesburg" },
-  { "retailer": "Hitchcock's Markets", "store": "Alachua, FL", "url": "https://delivery.myhitchcocks.com/online/hitchcocksalachua" },
-  { "retailer": "Hitchcock's Markets", "store": "East Palatka, FL", "url": "https://delivery.myhitchcocks.com/online/hitchcockseastpalatka" },
-  { "retailer": "Hitchcock's Markets", "store": "Hawthorne, FL", "url": "https://delivery.myhitchcocks.com/online/hitchcockshawthorne" },
-  { "retailer": "Hitchcock's Markets", "store": "Indiantown, FL", "url": "https://delivery.myhitchcocks.com/online/hitchcocksindiantown" },
-  { "retailer": "Hitchcock's Markets", "store": "Interlachen, FL", "url": "https://delivery.myhitchcocks.com/online/hitchcocksinterlachen" },
-  { "retailer": "Hitchcock's Markets", "store": "Jasper, FL", "url": "https://delivery.myhitchcocks.com/online/hitchcocksjasper" },
-  { "retailer": "Hitchcock's Markets", "store": "Keystone Heights, FL", "url": "https://delivery.myhitchcocks.com/online/hitchcockskeystoneheights" },
-  { "retailer": "Hitchcock's Markets", "store": "Newberry, FL", "url": "https://delivery.myhitchcocks.com/online/hitchcocksnewberry" },
-  { "retailer": "Hitchcock's Markets", "store": "Trenton, FL", "url": "https://delivery.myhitchcocks.com/online/hitchcockstrenton" },
-  { "retailer": "Hitchcock's Markets", "store": "Williston, FL", "url": "https://delivery.myhitchcocks.com/online/hitchcockswilliston" },
-  { "retailer": "Brookshire Brothers", "store": "Store 6 (TX)", "url": "https://shop.brookshirebrothers.com/online/store-6" },
-  { "retailer": "Brookshire Brothers", "store": "Store 32 (TX)", "url": "https://shop.brookshirebrothers.com/online/store-32" },
-  { "retailer": "Brookshire Brothers", "store": "Store 48 (TX)", "url": "https://shop.brookshirebrothers.com/online/store-48" },
-  { "retailer": "Brookshire Brothers", "store": "Store 51 (TX)", "url": "https://shop.brookshirebrothers.com/online/store-51" },
-  { "retailer": "Doc's Food Stores", "store": "Country Mart — Coweta, OK", "url": "https://shop.docsfoods.com/online/countrymartcoweta" }
+  {
+    "retailer": "Adrien's Supermarket",
+    "store": "Adrien's Supermarket",
+    "url": ""
+  },
+  {
+    "retailer": "AF County Market",
+    "store": "AF County Market",
+    "url": ""
+  },
+  {
+    "retailer": "Albrecht's Delafield Market",
+    "store": "Albrecht's Catering",
+    "url": ""
+  },
+  {
+    "retailer": "Albrecht's Delafield Market",
+    "store": "Albrecht's Delafield Market",
+    "url": ""
+  },
+  {
+    "retailer": "Anderson's Market",
+    "store": "Anderson's Glen Arbor",
+    "url": ""
+  },
+  {
+    "retailer": "Basic Foods",
+    "store": "Basic Foods",
+    "url": ""
+  },
+  {
+    "retailer": "Blitz's Market",
+    "store": "Sea Isle City",
+    "url": ""
+  },
+  {
+    "retailer": "Brink's Market",
+    "store": "Brink's Market",
+    "url": ""
+  },
+  {
+    "retailer": "Brink's Market",
+    "store": "Brink's Market Entertaining",
+    "url": ""
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Bellville - #39",
+    "url": "https://shop.brookshirebrothers.com/online/store-39"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Buna - #64",
+    "url": "https://shop.brookshirebrothers.com/online/store-64"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Caldwell - #44",
+    "url": "https://shop.brookshirebrothers.com/online/store-44"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Canyon Lake - #79",
+    "url": "https://shop.brookshirebrothers.com/online/store-79"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Carthage - #8",
+    "url": "https://shop.brookshirebrothers.com/online/store-8"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Center - #32",
+    "url": "https://shop.brookshirebrothers.com/online/store-32"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Cleveland - #16",
+    "url": "https://shop.brookshirebrothers.com/online/store-16"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "College Station - #12",
+    "url": "https://shop.brookshirebrothers.com/online/store-12"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Cuero - #91",
+    "url": "https://shop.brookshirebrothers.com/online/store-91"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Dayton - #43",
+    "url": "https://shop.brookshirebrothers.com/online/store-43"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "DeQuincy - #31",
+    "url": "https://shop.brookshirebrothers.com/online/store-31"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Fairfield - #10",
+    "url": "https://shop.brookshirebrothers.com/online/store-10"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Giddings - #37",
+    "url": "https://shop.brookshirebrothers.com/online/store-37"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Granbury - Pecan Foods - #101",
+    "url": "https://shop.brookshirebrothers.com/online/store-101"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Hallettsville - #74",
+    "url": "https://shop.brookshirebrothers.com/online/store-74"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Hamilton - #84",
+    "url": "https://shop.brookshirebrothers.com/online/store-84"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Hemphill - #20",
+    "url": "https://shop.brookshirebrothers.com/online/store-20"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Huntington - #52",
+    "url": "https://shop.brookshirebrothers.com/online/store-52"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Huntsville - #33",
+    "url": "https://shop.brookshirebrothers.com/online/store-33"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Jacksonville - #17",
+    "url": "https://shop.brookshirebrothers.com/online/store-17"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Jarrell - #115",
+    "url": "https://shop.brookshirebrothers.com/online/store-115"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Jasper - #45",
+    "url": "https://shop.brookshirebrothers.com/online/store-45"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Joaquin - #57",
+    "url": "https://shop.brookshirebrothers.com/online/store-57"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Katy - #9",
+    "url": "https://shop.brookshirebrothers.com/online/store-9"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Kirbyville - #53",
+    "url": "https://shop.brookshirebrothers.com/online/store-53"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Lago Vista - #117",
+    "url": "https://shop.brookshirebrothers.com/online/store-117"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Liberty - #51",
+    "url": "https://shop.brookshirebrothers.com/online/store-51"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Livingston - #21",
+    "url": "https://shop.brookshirebrothers.com/online/store-21"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Lorena - #63",
+    "url": "https://shop.brookshirebrothers.com/online/store-63"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Lufkin - #25",
+    "url": "https://shop.brookshirebrothers.com/online/store-25"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Lumberton - #89",
+    "url": "https://shop.brookshirebrothers.com/online/store-89"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Madisonville - #30",
+    "url": "https://shop.brookshirebrothers.com/online/store-30"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Magnolia - #48",
+    "url": "https://shop.brookshirebrothers.com/online/store-48"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Many - #116",
+    "url": "https://shop.brookshirebrothers.com/online/store-116"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "McGregor - #68",
+    "url": "https://shop.brookshirebrothers.com/online/store-68"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Montgomery - #73",
+    "url": "https://shop.brookshirebrothers.com/online/store-73"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Nacogodoches - University Dr. - #42",
+    "url": "https://shop.brookshirebrothers.com/online/store-42"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Navasota - #6",
+    "url": "https://shop.brookshirebrothers.com/online/store-6"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Onalaska - #71",
+    "url": "https://shop.brookshirebrothers.com/online/store-71"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Pilot Point - #109",
+    "url": "https://shop.brookshirebrothers.com/online/store-109"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Rockdale - #19",
+    "url": "https://shop.brookshirebrothers.com/online/store-19"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Rusk - #22",
+    "url": "https://shop.brookshirebrothers.com/online/store-22"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Salado - #69",
+    "url": "https://shop.brookshirebrothers.com/online/store-69"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "San Augustine - #28",
+    "url": "https://shop.brookshirebrothers.com/online/store-28"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Silsbee - #29",
+    "url": "https://shop.brookshirebrothers.com/online/store-29"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Smithville - #55",
+    "url": "https://shop.brookshirebrothers.com/online/store-55"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Sulphur - #47",
+    "url": "https://shop.brookshirebrothers.com/online/store-47"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Trinity - #23",
+    "url": "https://shop.brookshirebrothers.com/online/store-23"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Whitesboro - #92",
+    "url": "https://shop.brookshirebrothers.com/online/store-92"
+  },
+  {
+    "retailer": "Brookshire Brothers",
+    "store": "Wimberley - #67",
+    "url": "https://shop.brookshirebrothers.com/online/store-67"
+  },
+  {
+    "retailer": "Chandler's Groceries",
+    "store": "Shoppers Value Clinton",
+    "url": ""
+  },
+  {
+    "retailer": "Chandler's Groceries",
+    "store": "Shoppers Value Hamilton",
+    "url": ""
+  },
+  {
+    "retailer": "Chandler's Groceries",
+    "store": "SuperValu Ackerman",
+    "url": ""
+  },
+  {
+    "retailer": "Chandler's Groceries",
+    "store": "SuperValu Eupora",
+    "url": ""
+  },
+  {
+    "retailer": "Cox Farms Market",
+    "store": "Duncanville",
+    "url": ""
+  },
+  {
+    "retailer": "Cox Farms Market",
+    "store": "Farmers Branch",
+    "url": ""
+  },
+  {
+    "retailer": "Cox Farms Market",
+    "store": "West Dallas",
+    "url": ""
+  },
+  {
+    "retailer": "Daniels Foods Sentry",
+    "store": "Walworth",
+    "url": ""
+  },
+  {
+    "retailer": "Dehoff's Market",
+    "store": "Dehoff's Market",
+    "url": ""
+  },
+  {
+    "retailer": "Dick's Family Foods",
+    "store": "Sherwood",
+    "url": ""
+  },
+  {
+    "retailer": "Dick's Family Foods",
+    "store": "Wrightstown",
+    "url": ""
+  },
+  {
+    "retailer": "Dolphin Markets",
+    "store": "Dolphin Market",
+    "url": ""
+  },
+  {
+    "retailer": "Down to Earth Organic and Natural",
+    "store": "Honolulu",
+    "url": ""
+  },
+  {
+    "retailer": "Down to Earth Organic and Natural",
+    "store": "Kahului",
+    "url": ""
+  },
+  {
+    "retailer": "Down to Earth Organic and Natural",
+    "store": "Kailua",
+    "url": ""
+  },
+  {
+    "retailer": "Down to Earth Organic and Natural",
+    "store": "Kaka'ako",
+    "url": ""
+  },
+  {
+    "retailer": "Down to Earth Organic and Natural",
+    "store": "Kapolei",
+    "url": ""
+  },
+  {
+    "retailer": "Down to Earth Organic and Natural",
+    "store": "Pearlridge",
+    "url": ""
+  },
+  {
+    "retailer": "Downtown Natural Market",
+    "store": "Brooklyn",
+    "url": ""
+  },
+  {
+    "retailer": "Downtown Natural Market",
+    "store": "Jackson Heights",
+    "url": ""
+  },
+  {
+    "retailer": "Duma Meats",
+    "store": "Duma Meats",
+    "url": ""
+  },
+  {
+    "retailer": "Dutchmart",
+    "store": "Dutchmart- Orange City",
+    "url": ""
+  },
+  {
+    "retailer": "El Paso",
+    "store": "El Paso Chico Catering",
+    "url": ""
+  },
+  {
+    "retailer": "El Paso",
+    "store": "El Paso Chico Grocery",
+    "url": ""
+  },
+  {
+    "retailer": "El Paso",
+    "store": "El Paso Grande Catering",
+    "url": ""
+  },
+  {
+    "retailer": "El Paso",
+    "store": "El Paso Grande Grocery",
+    "url": ""
+  },
+  {
+    "retailer": "El Paso",
+    "store": "El Paso Grande La Cocina To Go",
+    "url": ""
+  },
+  {
+    "retailer": "El Paso",
+    "store": "El Paso Mas Grande Catering",
+    "url": ""
+  },
+  {
+    "retailer": "El Paso",
+    "store": "El Paso Mas Grande Grocery",
+    "url": ""
+  },
+  {
+    "retailer": "El Paso",
+    "store": "El Paso Mas Grande La Cocina To Go",
+    "url": ""
+  },
+  {
+    "retailer": "El Rey Supermercado",
+    "store": "El Rey Charlotte",
+    "url": ""
+  },
+  {
+    "retailer": "Essential Health",
+    "store": "Essential Health",
+    "url": ""
+  },
+  {
+    "retailer": "Exito Fresh Market",
+    "store": "Exito Fresh Market - Freehold",
+    "url": ""
+  },
+  {
+    "retailer": "Exito Fresh Market",
+    "store": "Exito Fresh Market - Long Branch",
+    "url": ""
+  },
+  {
+    "retailer": "Festival Foods",
+    "store": "Andover",
+    "url": "https://shop.festfoods.com/online/andover"
+  },
+  {
+    "retailer": "Festival Foods",
+    "store": "Bloomington",
+    "url": "https://shop.festfoods.com/online/bloomington"
+  },
+  {
+    "retailer": "Festival Foods",
+    "store": "Brooklyn Park",
+    "url": "https://shop.festfoods.com/online/brooklynpark"
+  },
+  {
+    "retailer": "Festival Foods",
+    "store": "Hugo",
+    "url": "https://shop.festfoods.com/online/hugo"
+  },
+  {
+    "retailer": "Festival Foods",
+    "store": "Lexington",
+    "url": "https://shop.festfoods.com/online/lexington"
+  },
+  {
+    "retailer": "Festival Foods",
+    "store": "White Bear Lake",
+    "url": ""
+  },
+  {
+    "retailer": "Food Depot",
+    "store": "Food Depot 31 Riverdale",
+    "url": ""
+  },
+  {
+    "retailer": "Food Depot",
+    "store": "Food Depot 33 Austell EWC",
+    "url": ""
+  },
+  {
+    "retailer": "Food Depot",
+    "store": "Food Depot 37 Newnan",
+    "url": ""
+  },
+  {
+    "retailer": "Food Depot",
+    "store": "Food Depot 40 Douglasville Hwy 5",
+    "url": ""
+  },
+  {
+    "retailer": "Food Depot",
+    "store": "Food Depot 43 Conyers",
+    "url": ""
+  },
+  {
+    "retailer": "Food Depot",
+    "store": "Food Depot 45 Kellytown",
+    "url": ""
+  },
+  {
+    "retailer": "Food Depot",
+    "store": "Food Depot 50 Dublin",
+    "url": ""
+  },
+  {
+    "retailer": "Food Depot",
+    "store": "Food Depot 59 Villa Rica",
+    "url": ""
+  },
+  {
+    "retailer": "Food Rite",
+    "store": "Food Rite Dyer",
+    "url": ""
+  },
+  {
+    "retailer": "Four Seasons Natural Foods",
+    "store": "Four Seasons Natural Foods ~ Saratoga Springs",
+    "url": ""
+  },
+  {
+    "retailer": "Fresh Foods Marketplace",
+    "store": "Fresh Foods Pacific Beach",
+    "url": ""
+  },
+  {
+    "retailer": "Fresh out of the Box",
+    "store": "Fresh out of the Box",
+    "url": ""
+  },
+  {
+    "retailer": "Freshmart PR",
+    "store": "Freshmart Aguadilla",
+    "url": ""
+  },
+  {
+    "retailer": "Freshmart PR",
+    "store": "Freshmart Carolina",
+    "url": ""
+  },
+  {
+    "retailer": "Freshmart PR",
+    "store": "Freshmart Plazoleta 169",
+    "url": ""
+  },
+  {
+    "retailer": "Gala Foods Supermarket",
+    "store": "Bridgeport",
+    "url": ""
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's & Ace Bay Minette (Bakery & Deli)",
+    "url": ""
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's & Ace Cottage Hill (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greerscottagehill"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's & Ace Fowl River & Beachside to Go (Bakery, Deli, Pharmacy, & Gas)",
+    "url": "https://orderonline.greers.com/online/greersfowlriver"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's & Ace Quitman (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greersquitman"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Bayou La Batre (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greersbayoulabatre"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Beaumont (Gas & Pharmacy)",
+    "url": "https://orderonline.greers.com/online/greersbeaumont"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Ellisville",
+    "url": "https://orderonline.greers.com/online/greersellisville"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Fairhope Liquor",
+    "url": ""
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Fairhope Market (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greersfairhopemarket"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Fowl River Liquor",
+    "url": ""
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Grand Bay (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greersgrandbay"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Grove Hill (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greersgrovehill"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's McIntosh (Bakery, Deli, & Gas)",
+    "url": "https://orderonline.greers.com/online/greersmcintosh"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Pensacola - Barrancas (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greersbarrancas"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Pensacola - Lillian (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greersperdidolillian"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Pensacola - Lillian Liquor, Wine, & Beer",
+    "url": "https://orderonline.greers.com/online/greersliquorwinebeer"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Poplarville (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greerspoplarville"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Robertsdale (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greersrobertsdale"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Semmes (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greerssemmes"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's St. Louis Market (Bakery, Deli, & Catering)",
+    "url": "https://orderonline.greers.com/online/greersstlouismarket"
+  },
+  {
+    "retailer": "Greer's",
+    "store": "Greer's Vancleave Market (Bakery & Deli)",
+    "url": "https://orderonline.greers.com/online/greersvancleavemarket"
+  },
+  {
+    "retailer": "Hammer & Wikan",
+    "store": "Hammer & Wikan",
+    "url": ""
+  },
+  {
+    "retailer": "Harvest Market",
+    "store": "Shipping",
+    "url": ""
+  },
+  {
+    "retailer": "Harvest Market",
+    "store": "Woodforest #710313",
+    "url": ""
+  },
+  {
+    "retailer": "Hefling's Amish Farm Market",
+    "store": "Hefling's Amish Farm Market",
+    "url": ""
+  },
+  {
+    "retailer": "Hen House Market",
+    "store": "Blackbob Hen House Market",
+    "url": ""
+  },
+  {
+    "retailer": "Hen House Market",
+    "store": "College Blvd Hen House Market",
+    "url": ""
+  },
+  {
+    "retailer": "Hen House Market",
+    "store": "Corinth Square Hen House",
+    "url": ""
+  },
+  {
+    "retailer": "Hen House Market",
+    "store": "Deer Creek Hen House Market",
+    "url": ""
+  },
+  {
+    "retailer": "Hen House Market",
+    "store": "Fairway Hen House Market",
+    "url": ""
+  },
+  {
+    "retailer": "Hen House Market",
+    "store": "Leawood Hen House Market",
+    "url": ""
+  },
+  {
+    "retailer": "Hen House Market",
+    "store": "Lenexa Hen House Market",
+    "url": ""
+  },
+  {
+    "retailer": "Hen House Market",
+    "store": "Parallel Hen House Market",
+    "url": ""
+  },
+  {
+    "retailer": "Hen House Market",
+    "store": "Village Market Hen House Market",
+    "url": ""
+  },
+  {
+    "retailer": "Heritage Market",
+    "store": "Heritage Market",
+    "url": ""
+  },
+  {
+    "retailer": "Hilltop Supermarket",
+    "store": "Hilltop Supermarket",
+    "url": ""
+  },
+  {
+    "retailer": "Hometown Grocery",
+    "store": "Athens",
+    "url": ""
+  },
+  {
+    "retailer": "hummus goodness",
+    "store": "hummus goodness",
+    "url": ""
+  },
+  {
+    "retailer": "Joe's Produce",
+    "store": "Joe's on the Go",
+    "url": ""
+  },
+  {
+    "retailer": "Joe's Produce",
+    "store": "Joe's Produce, Meat & Seafood, & Art of Bread",
+    "url": ""
+  },
+  {
+    "retailer": "Joe's Produce",
+    "store": "Joe's Seasonal Specials",
+    "url": ""
+  },
+  {
+    "retailer": "Joe's Produce",
+    "store": "Special Occasions by Joe's; Party Trays, Cakes, Kitchen, ect.",
+    "url": ""
+  },
+  {
+    "retailer": "Johnny Pomodoro's",
+    "store": "Johnny Pomodoro's",
+    "url": ""
+  },
+  {
+    "retailer": "Kuhn's Market",
+    "store": "Banksville",
+    "url": ""
+  },
+  {
+    "retailer": "Kuhn's Market",
+    "store": "Bellevue",
+    "url": ""
+  },
+  {
+    "retailer": "Kuhn's Market",
+    "store": "Beulah",
+    "url": ""
+  },
+  {
+    "retailer": "Kuhn's Market",
+    "store": "Ferguson - Allison Park",
+    "url": ""
+  },
+  {
+    "retailer": "Kuhn's Market",
+    "store": "Hopewell",
+    "url": ""
+  },
+  {
+    "retailer": "Kuhn's Market",
+    "store": "Ingomar",
+    "url": ""
+  },
+  {
+    "retailer": "Kuhn's Market",
+    "store": "McKnight",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "Grocery Direct",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "La Bonita #2",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "La Bonita #4",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "La Bonita #5",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "La Bonita #6",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "La Bonita #7",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "La Bonita Catering #2",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "La Bonita Catering #5",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "La Bonita Catering #6",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "La Bonita Catering #7",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "Taco Shop #2",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "Taco Shop #5",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "Taco Shop #6",
+    "url": ""
+  },
+  {
+    "retailer": "La Bonita Supermarkets",
+    "store": "Taco Shop #7",
+    "url": ""
+  },
+  {
+    "retailer": "Lamb's Fresh Market",
+    "store": "Lamb's Fresh Catering - Rib Mountain",
+    "url": ""
+  },
+  {
+    "retailer": "Lamb's Fresh Market",
+    "store": "Lamb's Fresh Catering - Wausau",
+    "url": ""
+  },
+  {
+    "retailer": "Lamb's Fresh Market",
+    "store": "Lamb's Fresh Market - Rib Mountain",
+    "url": ""
+  },
+  {
+    "retailer": "Lamb's Fresh Market",
+    "store": "Lamb's Fresh Market - Wausau",
+    "url": ""
+  },
+  {
+    "retailer": "Mac's Market",
+    "store": "Mac's Market",
+    "url": ""
+  },
+  {
+    "retailer": "Mackenthun's Fine Foods",
+    "store": "Gatherings Lonsdale",
+    "url": ""
+  },
+  {
+    "retailer": "Mackenthun's Fine Foods",
+    "store": "Gatherings Minnetrista",
+    "url": ""
+  },
+  {
+    "retailer": "Mackenthun's Fine Foods",
+    "store": "Gatherings Waconia",
+    "url": ""
+  },
+  {
+    "retailer": "Mackenthun's Fine Foods",
+    "store": "Mackenthun's Lonsdale",
+    "url": ""
+  },
+  {
+    "retailer": "Mackenthun's Fine Foods",
+    "store": "Mackenthun's Minnetrista + The Cove Wine & Spirits",
+    "url": ""
+  },
+  {
+    "retailer": "Mackenthun's Fine Foods",
+    "store": "Mackenthun's Waconia",
+    "url": ""
+  },
+  {
+    "retailer": "Main's Market",
+    "store": "Main's Market - Folsom",
+    "url": "https://shop.mainsmarket.com/online/mainsmarket"
+  },
+  {
+    "retailer": "Main's Market",
+    "store": "Mains Market - Franklinton",
+    "url": ""
+  },
+  {
+    "retailer": "Mariana's Supermarkets",
+    "store": "Cheyenne",
+    "url": ""
+  },
+  {
+    "retailer": "Mariana's Supermarkets",
+    "store": "Flamingo",
+    "url": ""
+  },
+  {
+    "retailer": "Mariana's Supermarkets",
+    "store": "Henderson",
+    "url": ""
+  },
+  {
+    "retailer": "Mariana's Supermarkets",
+    "store": "Jones",
+    "url": ""
+  },
+  {
+    "retailer": "Mariana's Supermarkets",
+    "store": "Sahara",
+    "url": ""
+  },
+  {
+    "retailer": "Mark's My Store",
+    "store": "Mark's My Store",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Beaumont Market Basket (Highway 105)",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Beaumont Market Basket (Phelan & Major)",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Bridge City Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Bruce's Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Iowa Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Kinder Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Lake Charles Market Basket (Lake St)",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Lake Charles Market Basket (Nelson Rd)",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Lake Charles Market Basket (Ryan St)",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Leesville Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Marine and Industrial Services - Market Basket Bridge City, TX",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Marine and Industrial Services - Market Basket Groves, TX",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Marine and Industrial Services - Market Basket Port Neches, TX",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Marine and Industrial Services - Market Basket Sulphur, LA",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Mauriceville Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Moss Bluff Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Nederland Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Orange Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Port Neches Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Sulphur Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Vidor Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Vinton Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Westlake Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Market Basket",
+    "store": "Winnie Market Basket",
+    "url": ""
+  },
+  {
+    "retailer": "Maurer's Market",
+    "store": "Dells",
+    "url": ""
+  },
+  {
+    "retailer": "Medford County Market",
+    "store": "Medford County Market",
+    "url": ""
+  },
+  {
+    "retailer": "Metcalfe's Market",
+    "store": "Metcalfe's Hilldale",
+    "url": ""
+  },
+  {
+    "retailer": "Metcalfe's Market",
+    "store": "Metcalfe's Wauwatosa",
+    "url": ""
+  },
+  {
+    "retailer": "Metcalfe's Market",
+    "store": "Metcalfe's Wauwatosa Floral Studio",
+    "url": ""
+  },
+  {
+    "retailer": "Metcalfe's Market",
+    "store": "Metcalfe's West Towne",
+    "url": ""
+  },
+  {
+    "retailer": "Monterrey Market",
+    "store": "Monterrey Market, 27th St",
+    "url": ""
+  },
+  {
+    "retailer": "Murphy's Food King",
+    "store": "Murphy's Food King",
+    "url": ""
+  },
+  {
+    "retailer": "Naifeh's Food Store",
+    "store": "Naifeh's Cash Saver",
+    "url": ""
+  },
+  {
+    "retailer": "New Brighton Foodland",
+    "store": "New Brighton",
+    "url": ""
+  },
+  {
+    "retailer": "Nino Salvaggio",
+    "store": "Nino Salvaggio - Bloomfield Township",
+    "url": ""
+  },
+  {
+    "retailer": "Nino Salvaggio",
+    "store": "Nino Salvaggio - Clinton Township",
+    "url": ""
+  },
+  {
+    "retailer": "Nino Salvaggio",
+    "store": "Nino Salvaggio - St. Clair Shores",
+    "url": ""
+  },
+  {
+    "retailer": "Nino Salvaggio",
+    "store": "Nino Salvaggio - Troy",
+    "url": "https://shop.ninosalvaggio.com/online/troy"
+  },
+  {
+    "retailer": "Papa Joe's Market",
+    "store": "Papa Joe's Market Rochester",
+    "url": ""
+  },
+  {
+    "retailer": "Papa Joe's Market",
+    "store": "Papa Joes Market Rochester Catering",
+    "url": ""
+  },
+  {
+    "retailer": "Paulbeck's Market",
+    "store": "Paulbeck's Market",
+    "url": ""
+  },
+  {
+    "retailer": "Perch's IGA",
+    "store": "Perch's IGA",
+    "url": ""
+  },
+  {
+    "retailer": "Piggly Wiggly",
+    "store": "Church Point",
+    "url": ""
+  },
+  {
+    "retailer": "Piggly Wiggly Go",
+    "store": "Rayne, LA",
+    "url": ""
+  },
+  {
+    "retailer": "Piggly Wiggly Go",
+    "store": "Scott, LA",
+    "url": ""
+  },
+  {
+    "retailer": "Randazzo Fresh Market",
+    "store": "Randazzo Fresh Market - Clinton Township",
+    "url": ""
+  },
+  {
+    "retailer": "Randazzo Fresh Market",
+    "store": "Randazzo Fresh Market - Macomb",
+    "url": ""
+  },
+  {
+    "retailer": "Randazzo Fresh Market",
+    "store": "Randazzo Fresh Market- Warren",
+    "url": ""
+  },
+  {
+    "retailer": "Rennoldson's Market",
+    "store": "Rennoldson's Market",
+    "url": ""
+  },
+  {
+    "retailer": "Ring Bros. Marketplace",
+    "store": "Ring Bros. Marketplace",
+    "url": ""
+  },
+  {
+    "retailer": "Roger's Supermarket",
+    "store": "Roger's Supermarket",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#04 Houma",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#10 Morgan City",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#15 Houma",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#15 Houma – eCatering",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#16 Thibodaux",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#16 Thibodaux – eCatering",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#20 Covington",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#21 Mandeville",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#22 Slidell",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#23 Youngsville",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#25 Metairie",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#26 New Orleans",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#27 Metairie",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#28 Metairie",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#29 New Orleans",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#32 Mandeville",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#33 Metairie",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#35 New Orleans",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#36 New Orleans",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#38 Gretna",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#40 Ocean Springs",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#45 Lafayette",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#46 New Orleans",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#47 Diamondhead",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#48 Lafayette",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#49 Gretna",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#50 Theodore",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#51 Mobile",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#52 Saraland",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#53 Spanish Fort",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#54 Gulf Shores",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#55 Denham Springs",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#56 Kenner",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#57 Ponchatoula",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#58 Baton Rouge",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#59 Thibodaux",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#59 Thibodaux – eCatering",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#60 Zachary",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#61 Hammond",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#62 Baton Rouge",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#63 Prairieville",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#64 Gonzales",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#65 Gonzales",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#66 Plattenville",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#68 Plaquemine",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#69 Baton Rouge",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#70 Baton Rouge",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#71 Sulphur",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#72 Lake Charles",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#73 Mobile",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#74 New Iberia",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#75 Covington",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#76 Beach Moms",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#76 Orange Beach",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#77 Gulfport",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#78 Daphne",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#79 Marrero",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#79 Marrero – eCatering",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#80 Lake Charles",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#81 Larose",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#82 Golden Meadow",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#84 Lafayette",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#85 Houma",
+    "url": ""
+  },
+  {
+    "retailer": "Rouses Markets",
+    "store": "#86 Baton Rouge",
+    "url": ""
+  },
+  {
+    "retailer": "Russell's Piggly Wiggly",
+    "store": "Piggly Wiggly Clay",
+    "url": ""
+  },
+  {
+    "retailer": "Russell's Piggly Wiggly",
+    "store": "Piggly Wiggly Warrior",
+    "url": ""
+  },
+  {
+    "retailer": "Steve's Market and Deli",
+    "store": "Steve's Market and Deli - Urbana",
+    "url": ""
+  },
+  {
+    "retailer": "Sullivan's Grocery",
+    "store": "Sullivan's Gluckstadt",
+    "url": ""
+  },
+  {
+    "retailer": "Summit Store",
+    "store": "Summit Grocery Store",
+    "url": ""
+  },
+  {
+    "retailer": "Sumsweet",
+    "store": "Sumsweet",
+    "url": ""
+  },
+  {
+    "retailer": "Sunset Foods",
+    "store": "Highland Park",
+    "url": ""
+  },
+  {
+    "retailer": "Sunset Foods",
+    "store": "Lake Forest",
+    "url": ""
+  },
+  {
+    "retailer": "Sunset Foods",
+    "store": "Libertyville",
+    "url": ""
+  },
+  {
+    "retailer": "Sunset Foods",
+    "store": "Long Grove",
+    "url": ""
+  },
+  {
+    "retailer": "Sunset Foods",
+    "store": "Northbrook",
+    "url": ""
+  },
+  {
+    "retailer": "Sunshine Foods",
+    "store": "Sunshine Foods Madison",
+    "url": ""
+  },
+  {
+    "retailer": "Teet's Food Store",
+    "store": "Teet’s Food Store",
+    "url": ""
+  },
+  {
+    "retailer": "The Grand Food Center",
+    "store": "Glencoe",
+    "url": ""
+  },
+  {
+    "retailer": "The Grand Food Center",
+    "store": "Winnetka",
+    "url": ""
+  },
+  {
+    "retailer": "Ukura's Big Dollar Store",
+    "store": "Ukura's Big Dollar Store",
+    "url": ""
+  },
+  {
+    "retailer": "Ukura's Big Dollar Store",
+    "store": "Ukura's Bottle Shop",
+    "url": ""
+  },
+  {
+    "retailer": "ValuMarket",
+    "store": "ValuMarket Iroquois Manor",
+    "url": ""
+  },
+  {
+    "retailer": "ValuMarket",
+    "store": "ValuMarket Mid City Mall",
+    "url": ""
+  },
+  {
+    "retailer": "ValuMarket",
+    "store": "ValuMarket Mount Washington",
+    "url": ""
+  },
+  {
+    "retailer": "ValuMarket",
+    "store": "ValuMarket Outer Loop Plaza",
+    "url": ""
+  },
+  {
+    "retailer": "Village Fresh Market",
+    "store": "Village Fresh Market",
+    "url": ""
+  },
+  {
+    "retailer": "Wade's Piggly Wiggly",
+    "store": "Piggly Wiggly Charleston",
+    "url": ""
+  },
+  {
+    "retailer": "Wade's Piggly Wiggly",
+    "store": "Piggly Wiggly Decatur",
+    "url": ""
+  },
+  {
+    "retailer": "Wade's Piggly Wiggly",
+    "store": "Piggly Wiggly Pikeville",
+    "url": ""
+  },
+  {
+    "retailer": "Weaver Markets",
+    "store": "Weaver Markets",
+    "url": ""
+  },
+  {
+    "retailer": "Westborn Market",
+    "store": "Berkley",
+    "url": ""
+  },
+  {
+    "retailer": "Westborn Market",
+    "store": "Dearborn",
+    "url": ""
+  },
+  {
+    "retailer": "Westborn Market",
+    "store": "Livonia",
+    "url": ""
+  },
+  {
+    "retailer": "Westborn Market",
+    "store": "Plymouth",
+    "url": ""
+  },
+  {
+    "retailer": "Wholesome Choice",
+    "store": "Wholesome Choice",
+    "url": ""
+  },
+  {
+    "retailer": "Willy Street Co-op",
+    "store": "Willy Street North",
+    "url": "https://shop.willystreet.coop/online/north"
+  },
+  {
+    "retailer": "Windfall Market",
+    "store": "Windfall Market",
+    "url": ""
+  },
+  {
+    "retailer": "Windfall Market",
+    "store": "Windfall Specialty Market",
+    "url": ""
+  }
 ]
