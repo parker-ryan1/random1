@@ -5,7 +5,7 @@
 
 const raw: any[] = require("../research/store-enumeration.json");
 
-// Confirmed domains for each retailer (verified from live URLs or search results)
+// Confirmed domains for each retailer (all verified from live indexed URLs)
 const RETAILER_DOMAINS: Record<string, string> = {
   "Rouses Markets":                   "https://orderonline.rouses.com",
   "Greer's":                          "https://groceriestogo.greers.com",
@@ -21,11 +21,24 @@ const RETAILER_DOMAINS: Record<string, string> = {
   "Hen House Market":                 "https://shop.henhouse.com",
   "Kuhn's Market":                    "https://shopping.kuhnsmarket.com",
   "Willy Street Co-op":               "https://shop.willystreet.coop",
-  "Freshmart PR":                     "https://shop.freshmart.com",
+  "Freshmart PR":                     "https://shop.freshmartpr.com",
   "Mackenthun's Fine Foods":          "https://shop.mackenthuns.com",
   "Market Basket":                    "https://mb2go.marketbasketfoods.com",
-  "Down to Earth Organic and Natural":"https://shop.downtoearth.com",
+  "Down to Earth Organic and Natural":"https://shop.downtoearth.org",
   "ValuMarket":                       "https://shop.valumarket.com",
+  "El Paso":                          "https://shop.elpasogrocery.com",
+  "Food Depot":                       "https://shop.fooddepot.com",
+  "Mariana's Supermarkets":           "https://shop.marianasmarkets.com",
+  "Westborn Market":                  "https://shop.westbornmarket.com",
+  "Cox Farms Market":                 "https://shop.coxfarmsmarket.com",
+  "Randazzo Fresh Market":            "https://shopfresh.randazzofreshmarket.shop",
+  "Wade's Piggly Wiggly":             "https://online.shoppigglywiggly.com",
+  "Russell's Piggly Wiggly":          "https://online.shoppigglywiggly.com",
+  "Piggly Wiggly Go":                 "https://online.shoppigglywiggly.com",
+  "Piggly Wiggly":                    "https://online.shoppigglywiggly.com",
+  "Chandler's Groceries":             "https://curbside.shopchandlers.com",
+  "Joe's Produce":                    "https://shop.joesproduce.com",
+  "Lamb's Fresh Market":              "https://shop.lambsfreshmarket.com",
 };
 
 // Names that indicate test/internal/demo stores — skip these
@@ -99,9 +112,69 @@ function deriveSlug(retailer: string, storeName: string): string {
       return m ? m[1] : toSlug(storeName);
     }
     case "Mackenthun's Fine Foods": {
-      // city name slug
       const city = storeName.replace(/Mackenthun['']?s?\s*(?:Fine\s*Foods)?\s*/i, "").trim();
       return city ? toSlug(city) : toSlug(storeName);
+    }
+    case "Food Depot": {
+      // "Food Depot 40 Douglasville Hwy 5" → "fooddepot40douglasvillehwy5"
+      return toSlug(storeName);
+    }
+    case "El Paso": {
+      // "El Paso Grande Grocery" → "elpasogrande" etc — use full name slug
+      return toSlug(storeName.replace(/\s*Catering$/i, ""));
+    }
+    case "Mariana's Supermarkets": {
+      // "Cheyenne" → "cheyenne", "Jones" → "jones"
+      return toSlug(storeName);
+    }
+    case "Westborn Market": {
+      // "Berkley", "Dearborn" — city is the slug (note: URL showed "Dearborn" with capital)
+      return toSlug(storeName);
+    }
+    case "Cox Farms Market": {
+      // "Duncanville" → "duncanville", "West Dallas" → "westdallas"
+      return toSlug(storeName);
+    }
+    case "Randazzo Fresh Market": {
+      // "Randazzo Fresh Market - Clinton Township" → "clintonTownship"?
+      // shopfresh.randazzofreshmarket.shop/online/{slug}
+      const loc = storeName.replace(/Randazzo Fresh Market\s*[-–]\s*/i, "").trim();
+      return loc ? toSlug(loc) : toSlug(storeName);
+    }
+    case "Wade's Piggly Wiggly":
+    case "Russell's Piggly Wiggly":
+    case "Piggly Wiggly Go":
+    case "Piggly Wiggly": {
+      // "Piggly Wiggly Charleston" → "pigglywiggly-charleston"? Use city slug
+      const city = storeName.replace(/Piggly\s*Wiggly\s*/i, "").replace(/^(Rayne|Scott|Church Point|Clay|Warrior|Charleston|Decatur)\b.*/i, "$1").trim();
+      return city ? toSlug(city) : toSlug(storeName);
+    }
+    case "Chandler's Groceries": {
+      // "Shoppers Value Clinton" → "shoppervalueclinton"
+      return toSlug(storeName);
+    }
+    case "Joe's Produce": {
+      // store names like "Joe's Produce, Meat & Seafood, & Art of Bread", "Joe's on the Go"
+      return toSlug(storeName.replace(/[,&]/g, "").replace(/\s+/g, ""));
+    }
+    case "Lamb's Fresh Market": {
+      // "Lamb's Fresh Catering - Rib Mountain" → "lambsfreshmarket-ribmountain"
+      const loc = storeName.replace(/Lamb['']?s?\s*Fresh\s*(?:Market|Catering)?\s*[-–]?\s*/i, "").trim();
+      return loc ? `lambsfreshmarket-${toSlug(loc)}` : toSlug(storeName);
+    }
+    case "Down to Earth Organic and Natural": {
+      // "Honolulu", "Kahului" — city slug
+      return toSlug(storeName);
+    }
+    case "ValuMarket": {
+      // "ValuMarket Iroquois Manor" → "iroquoismanor"
+      const loc = storeName.replace(/ValuMarket\s*/i, "").trim();
+      return loc ? toSlug(loc) : toSlug(storeName);
+    }
+    case "Freshmart PR": {
+      // "Freshmart Aguadilla" → "aguadilla"
+      const loc = storeName.replace(/Freshmart\s*/i, "").trim();
+      return loc ? toSlug(loc) : toSlug(storeName);
     }
     default:
       return "";
